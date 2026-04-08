@@ -1,0 +1,13 @@
+numpy
+pandas
+soundfile
+librosa
+onnxruntime
+datasets
+openai-whisper
+transformers
+torch
+matplotlib
+seaborn
+pyyaml
+langid
